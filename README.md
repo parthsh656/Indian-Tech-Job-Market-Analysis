@@ -12,7 +12,7 @@ The primary objective is to replace localized market fragmentation with objectiv
 ## 🛠️ Tech Stack & Tools
 * **Programming Language:** Python 3.x
 * **Data Manipulation:** Pandas, NumPy
-* **Data Visualization:** Matplotlib, Seaborn
+* **Data Visualization:** PowerBI, Matplotlib, Seaborn
 * **Environment:** Jupyter Notebook / Anaconda Framework
 
 ---
